@@ -1,8 +1,12 @@
 Q1: Why might we consider using Git?
 
-Answer: Git is a useful tool that makes collaboration on projects much easier since you can easily manage and log changes between collaborators.
+Answer: Git is a useful VCS that makes collaboration on projects much easier since you can easily manage and log changes between collaborators.
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data science could be applied to the field of healthcare since it could be used to predict certain medical outcomes. For example, by analyzing the success rate of different treatments to the same problem from a vast amount of accumulated data, data scientists could inform healthcare experts on the statistically best treatment to a certain medical condition. 
+Answer: Data science could be applied to the field of healthcare since it could be used to predict certain medical outcomes. For example, by analyzing the success rate of different treatments to the same problem from a vast amount of accumulated data, data scientists could inform healthcare experts on the statistically best treatment to a certain medical condition.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: The primary difference between merging and rebasing is that merging preserves the history of the branches being merged while rebasing overwrites the previous history from the branches.
 
